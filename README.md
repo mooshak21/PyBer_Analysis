@@ -13,7 +13,16 @@ The purpose of this analysis is to dive into the Pyber ride share data. Here we 
 5. In order from least to greatest, the average fares per driver were urban, suburban, then rural
 
 ### Summary DataFrame
-![](https://github.com/mooshak21/Pyber_Analysis/blob/main/analysis/fig1.png)
+![](https://github.com/mooshak21/Pyber_Analysis/blob/main/analysis/fig2.png)
 
 ### Total Fares by City Type Plot
 ![](https://github.com/mooshak21/Pyber_Analysis/blob/main/analysis/Total_Fare_by_City_Type.png)
+
+---
+
+## Summary
+There are some recommendations for updates to the ride-sharing program that could help result in more riders in certain areas:
+
+1. One thing they could change is to change the cost of rides for people in rural areas because they have the least amount of riders for their city type. 
+2. Another suggestion is to get more drivers in rural areas. Based on urban data, there are significantly more drivers than total rides which resulted in much more revenue. In rural areas we only have 78 drivers to the 125 total rides. If they increased the number of drivers, there might be a correlated increase in total rides and total revenue. 
+3. Lastly, the average fare per ride for rural areas is the highest of the three city types. To combat this they should try to market their service more to people in these areas. Because rural areas probably require longer trips since destinations are further away, people probably don't think of using a ride-share service. Marketing and advertising for these types of people would greatly benefit the amount of riders and would probably attract more drivers in the area which would in turn lower the average fare. 
