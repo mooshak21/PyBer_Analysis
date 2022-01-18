@@ -1,7 +1,7 @@
 # Pyber_Analysis
 
 ## Overview
-The purpose of this analysis is to dive into the Pyber ride share data. Here we are completing a ridesharing summary using our Python skills of groupby dataframes on a certain aspect of the data columns (type/date). The overall goal is to create a multiple line graph to show the total weekly fares for each city type for the date range Jan 1, 2019 - April 28, 2019.
+The purpose of this analysis is to dive into the Pyber ride share data. Here we are completing a ridesharing summary using our Python skills to perform groupby queries on dataframes on a certain aspect of the data columns (type/date). The overall goal is to create a multiple line graph to show the total weekly fares for each city type for the date range Jan 1, 2019 - April 28, 2019.
 
 ---
 
